@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on the design and implementation of a safety-critical Battery Management System (BMS) specifically engineered for Electric Vehicle (EV) applications. The system monitors thermal performance using an NTC 30kΩ thermistor to prevent accidental fire and battery degradation. It features automated safety protocols that trigger warning indicators at 60°C and execute a full power cut-off via a 5V relay when temperatures reach 75°C.
 
-[View Full Technical Report](./bms_thermal_control_report.pdf)
+[View Full Technical Report](./BMS_Technical_Report_Izzat.pdf)
 
 ## Technical Architecture
 The system utilizes a hybrid approach of analog signal conditioning and virtual instrumentation
